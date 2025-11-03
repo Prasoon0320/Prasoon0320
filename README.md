@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🎓 I'm **Prasoon Singh**, Completed my BTech degree from LPU, Jalandhar. I have profieiency in **Full Stack web development**. As I'm passionate about computer technology, I'm eager to expand my knowledge and explore new concepts in this field.
+🎓 I'm **Prasoon Singh**, Completed my BTech degree from LPU, Jalandhar. I have profieiency in **Python Developer**. As I'm passionate about computer technology, I'm eager to expand my knowledge and explore new concepts in this field.
 
 
 ## 🛠️ Skills
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-3178C6?style=for-the-badge&logo=java&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=java&logoColor=orange)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
